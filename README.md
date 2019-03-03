@@ -9,3 +9,7 @@ The breed classifier model was trained on a dataset of 13000+ dog images labeled
 Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+
+<img src='images/dog_spotting1.png' width=500px>
+<img src='images/cuomo.png' width=500px>
+
