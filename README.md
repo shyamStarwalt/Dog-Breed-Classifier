@@ -10,6 +10,6 @@ Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 
 Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
-<img src='images/dog_spotting1.png' width=500px>
-<img src='images/cuomo.png' width=500px>
+<img src='images/dog_spotting1.jpg' width=500px>
+<img src='images/cuomo.JPG' width=500px>
 
