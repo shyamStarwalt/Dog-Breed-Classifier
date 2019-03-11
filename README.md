@@ -2,7 +2,7 @@
 # Dog-Breed-Classifier
 Given an image of a dog, algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-<img src='images/download.jpg' width=500px>
+<img src='images/new.png' width=500px>
 
 As part of my deep learning nanodegree (Convolutional Neural Networks (CNN)), I created a cnn (from scratch) and (transfer learning) to classify images as containing humans, dogs, or neither, and in the first two cases predict the best resembling dog breed of the images subject.
 
