@@ -36,9 +36,7 @@ Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 	```
 2. Open the Dog-breed_classifier.ipynb
 	```
-  
-	jupyter notebook Dog-breed_classifier.ipynb
-		
+	jupyter notebook Dog-breed_classifier.ipynb	
 	```
 3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
 
