@@ -2,7 +2,7 @@
 # Dog-Breed-Classifier
 Given an image of a dog, algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-<img src='images/dog_spotting1.jpg' width=200px> <img src='/image.jpg' width=400px>
+<img src='images/dog_spotting1.jpg' width=200px> <img src='images/EvanSmithBW-4.jpg' width=178px>
 
 
 As part of my deep learning nanodegree (Convolutional Neural Networks (CNN)), I created a cnn (from scratch) and (transfer learning) to classify images as containing humans, dogs, or neither, and in the first two cases predict the best resembling dog breed of the images subject.
@@ -32,13 +32,18 @@ Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 1. Clone the repository and navigate to the downloaded folder.
 	```	
 	git clone https://github.com/shyamStarwalt/Dog-Breed-Classifier.git
+	```
+
+2. Download and Install Anaconda [from here](https://www.anaconda.com/)
+
+3. Install the above packages mentioned in the Prerequisites
+
+4. Open the Dog-breed_classifier.ipynb
+	```
 	cd Dog-Breed-Classifier
-	```
-2. Open the Dog-breed_classifier.ipynb
-	```
 	jupyter notebook Dog-breed_classifier.ipynb	
 	```
-3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
+5. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
 
 ## Project Information
 
