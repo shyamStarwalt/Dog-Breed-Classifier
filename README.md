@@ -77,6 +77,11 @@ Accuracy : 14%
 ### Transfer model:
 Accuracy : 76%
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+## Acknowledgments
+
+* The data comes from Udacity.
 
