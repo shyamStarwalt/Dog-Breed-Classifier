@@ -36,14 +36,17 @@ Download dog image file from https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 
 2. Download and Install Anaconda [from here](https://www.anaconda.com/)
 
-3. Install the above packages mentioned in the Prerequisites
+3. Install the above packages mentioned in the Prerequisites (Anaconda Prompt)
 
-4. Open the Dog-breed_classifier.ipynb
+4. Open the cloned repository and navigate to
 	```
 	cd Dog-Breed-Classifier
+	```
+5. Open the Dog-breed_classifier.ipynb
+	```
 	jupyter notebook Dog-breed_classifier.ipynb	
 	```
-5. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
+6. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
 
 ## Project Information
 
